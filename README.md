@@ -7,7 +7,7 @@ To complete this excercise, click on the green 'Clone or Download' button on the
 
 Unzip the folder and move it into your coding_course folder. Then, open the whole folder in Atom.  
 
-*Top tip! You can do this by dragging the folder onto the Atom icon on macs*
+*Top tip! You can do this by dragging the folder onto the Atom icon on macs*.
 
 ## Task one
 Open the file 'example.html' in Chrome and look around with the developer tools. What HTML tags can you see, and what do you think they stand for?
